@@ -1,0 +1,23 @@
+{
+"product":
+[{"id":1,"name":"Python, carpet","category":"Crimson"},
+{"id":2,"name":"Crested barbet","category":"Mauv"},
+{"id":3,"name":"Mexican boa","category":"Goldenrod"},
+{"id":4,"name":"Catfish, blue","category":"Khaki"},
+{"id":5,"name":"Savanna baboon","category":"Crimson"},
+{"id":6,"name":"Owl, white-browed","category":"Pink"},
+{"id":7,"name":"Klipspringer","category":"Blue"},
+{"id":8,"name":"Pronghorn","category":"Maroon"},
+{"id":9,"name":"Steenbok","category":"Green"},
+{"id":10,"name":"Common zorro","category":"Goldenrod"},
+{"id":11,"name":"Quoll, spotted-tailed","category":"Crimson"},
+{"id":12,"name":"Harbor seal","category":"Orange"},
+{"id":13,"name":"Magistrate black colobus","category":"Green"},
+{"id":14,"name":"Long-tailed jaeger","category":"Mauv"},
+{"id":15,"name":"Black rhinoceros","category":"Pink"},
+{"id":16,"name":"Ground monitor (unidentified)","category":"Maroon"},
+{"id":17,"name":"American beaver","category":"Aquamarine"},
+{"id":18,"name":"Moccasin, water","category":"Khaki"},
+{"id":19,"name":"Leopard, indian","category":"Turquoise"},
+{"id":20,"name":"Bee-eater, nubian","category":"Goldenrod"}]
+}
